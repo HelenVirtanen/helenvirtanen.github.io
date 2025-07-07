@@ -28,10 +28,10 @@ projects:
     projects:
     # - repo-name
 
- social_media:
-   facebook: https://www.facebook.com/helena.drigant/
-   instagram: https://www.instagram.com/elentangorra/
-   telegram: https://t.me/helenvirtanen
+social_media:
+  facebook: https://www.facebook.com/helena.drigant/
+  instagram: https://www.instagram.com/elentangorra/
+  telegram: https://t.me/helenvirtanen
 
 topics:
   - name: TypeScript
